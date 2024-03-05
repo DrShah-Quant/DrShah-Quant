@@ -1,4 +1,4 @@
-<h1>Hi, I'm Shah! <br/> I apply Mathematics, Statistics  and Computing in Finance</h1>
+<h1>Hi, I'm Shah! <br/> I apply Mathematics, Statistics  and Computing in Stocks Trading</h1>
 
 <h2>👨‍💻 Stock Visualization Projects:</h2>
 
