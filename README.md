@@ -7,7 +7,7 @@
 - <b><a href="https://github.com/DrShah-Quant/PeriodBigPlayersCandlesticks"> Period Big Players With Japanese Candlestic Chart </a></b></br>
   <b>This Python program analyzes volume and transaction patterns alongside Japanese candlestick price action for a specific stock, using historical tick data.</b>
 - <b><a href="https://github.com/DrShah-Quant/DailyBigPlayerCandlestickRankTransformed"> Daily Big Players With Japanese Candlestic Chart </a></b></br>
-  <b>This Python program computes volume/outstanding shares percentile using all daily transactions regardless of buy or sell transactions. The program shows the number of buy transaction and sell transaction exceeding treshold percentile.</b>
+  <b>The program computes the volume-to-outstanding shares ratio based on all daily transactions (including buys and sells). It then outputs the number of buy and sell transactions exceeding a user-defined percentile threshold.</b>
 
 
 
