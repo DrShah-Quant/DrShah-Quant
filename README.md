@@ -11,7 +11,10 @@
 - <b><a href="https://github.com/DrShah-Quant/VolumeCompositionAtPrices">Volume Composition At Prices </a></b></br>
 <b>This Python program visualizes the breakdown of trading volume by transaction type (sell, buy, and open) at each price point recorded during a trading day.</b>
 
+<h2>📈 2025 Saudi Arabia Algo Trading Challenge:</h2>
 
+- <b><a href="https://github.com/DrShah-Quant/VWMA-Based-Traction-Strength-Strategy"> VWMA-Based Traction Strength Strategy </a></b></br>
+  <b>This trading strategy leverages the Volume-Weighted Moving Average (VWMA) to capture traction strength in price movements. By weighting prices based on trading volume, it identifies momentum with greater reliability, improving entry and exit decision-making in algorithmic trading.</b>
 
 <h2> 🤳 Connect with me:</h2>
 
