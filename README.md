@@ -16,7 +16,7 @@
 - <b><a href="https://github.com/DrShah-Quant/VWMA-Based-Traction-Strength-Strategy"> VWMA-Based Traction Strength Strategy </a></b></br>
   <b>This trading strategy leverages the Volume-Weighted Moving Average (VWMA) to capture traction strength in price movements. By weighting prices based on trading volume, it identifies momentum with greater reliability, improving entry and exit decision-making in algorithmic trading.</b>
 
-- <b><a href="https://github.com/DrShah-Quant/9-Day-Moving-Average-Strategy/blob/main/README.md"> Pattern-Based Trend Confirmation with 9-Day Moving Average Strategy </a></b></br>
+- <b><a href="https://github.com/DrShah-Quant/9-Day-Moving-Average-Strategy/tree/main"> Pattern-Based Trend Confirmation with 9-Day Moving Average Strategy </a></b></br>
   <b>This strategy identifies trend patterns such as higher highs or lower lows and confirms them with the 9-day moving average. It aims to capture medium-term momentum by combining pattern recognition with moving average validation for more robust trading signals.</b>
 
 <h2> 🤳 Connect with me:</h2>
