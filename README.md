@@ -22,6 +22,9 @@
 - <b><a href="https://github.com/DrShah-Quant/Pattern-Based-High-Low-Turning-Point-Detection"> Pattern-Based High-Low Turning Point Detection </a></b></br>
   <b>This strategy detects local highs and lows in price movements by analyzing sequences of closing prices. It identifies potential reversal points (support and resistance zones) that traders can use to anticipate short-term buying or selling opportunities.</b>
 
+- <b><a href="https://github.com/DrShah-Quant/Reversal-Detection-and-Entry-Strategy-Using-Previous-Day-s-Open-Close-Dynamics"> Event-Driven Reversal Capture Strategy with NAV-Based Position Sizing </a></b></br>
+  <b>This strategy captures potential price reversals by analyzing the relationship between the previous day’s open and close prices. It integrates NAV-based position sizing to dynamically allocate capital, aiming to balance risk exposure and maximize returns in volatile market conditions.</b>
+
 <h2> 🤳 Connect with me:</h2>
 
 <a href="mailto:dr.shah.github@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
