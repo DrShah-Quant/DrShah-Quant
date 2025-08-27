@@ -19,6 +19,9 @@
 - <b><a href="https://github.com/DrShah-Quant/9-Day-Moving-Average-Strategy/tree/main"> Pattern-Based Trend Confirmation with 9-Day Moving Average Strategy </a></b></br>
   <b>This strategy identifies trend patterns such as higher highs or lower lows and confirms them with the 9-day moving average. It aims to capture medium-term momentum by combining pattern recognition with moving average validation for more robust trading signals.</b>
 
+- <b><a href="https://github.com/DrShah-Quant/Pattern-Based-High-Low-Turning-Point-Detection"> Pattern-Based High-Low Turning Point Detection </a></b></br>
+  <b>This strategy detects local highs and lows in price movements by analyzing sequences of closing prices. It identifies potential reversal points (support and resistance zones) that traders can use to anticipate short-term buying or selling opportunities.</b>
+
 <h2> 🤳 Connect with me:</h2>
 
 <a href="mailto:dr.shah.github@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
