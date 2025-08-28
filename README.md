@@ -37,8 +37,8 @@
 - <b><a href="https://github.com/DrShah-Quant/Adaptive-Anchored-VWAP-Breakout-with-Swing-Pattern-Slope-Confirmation"> Adaptive Anchored VWAP Breakout with Swing-Pattern Slope Confirmation </a></b></br>
   <b>This strategy enhances anchored VWAP breakout logic by integrating swing-pattern slope confirmation. By requiring higher highs, higher lows, and slope-strength validation before breakouts, it filters weak signals, ensuring entries align with strong institutional trend momentum.</b>
 
-- <b><a href="https://github.com/DrShah-Quant/Anchored-VWAP-Swing-Low-Rebound-Strategy-with-Slope-Divergence-Exit-Control"> Anchored VWAP Swing-Low Rebound Strategy with Slope-Divergence Exit Control </a></b></br>
-  <b>This strategy identifies rebound opportunities from swing-lows when price action sustains above Anchored VWAP. Entry signals are confirmed by slope-strength at swing-lows, while exits are triggered by slope-divergence at swing-highs. This ensures disciplined participation in trend continuations while reducing false breakouts and protecting profits from weakening momentum.</b>
+- <b><a href="https://github.com/DrShah-Quant/Anchored-VWAP-Swing-Low-Rebound-Strategy-with-Multi-Swing-Confirmation-and-Slope-Divergence-Exit"> Anchored VWAP Swing-Low Rebound Strategy with Multi-Swing Confirmation and Slope-Divergence Exit </a></b></br>
+  <b>This strategy builds on anchored VWAP swing-low rebound logic by requiring confirmation from multiple swing structures before entry. It integrates slope-divergence analysis to control exits, ensuring participation in high-quality trend continuations while reducing false signals and protecting profits when momentum weakens.</b>
 
 <h2> 🤳 Connect with me:</h2>
 
