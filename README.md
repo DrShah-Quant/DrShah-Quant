@@ -31,6 +31,9 @@
 - <b><a href="https://github.com/DrShah-Quant/Anchored-VWAP-Based-Uptrend-Breakout-Strategy"> Anchored VWAP-Based Uptrend Breakout Strategy </a></b></br>
   <b>This strategy uses Anchored Volume-Weighted Average Price (VWAP) as a dynamic support/resistance benchmark. It identifies breakout opportunities during established uptrends when prices sustain above anchored VWAP levels, providing traders with systematic entries aligned with institutional buying footprints.</b>
 
+- <b><a href="https://github.com/DrShah-Quant/Adaptive-Anchored-VWAP-Breakout-with-Trend-Pattern-Confirmation"> Adaptive Anchored VWAP Breakout with Trend-Pattern Confirmation </a></b></br>
+  <b>This advanced strategy combines Anchored VWAP breakout signals with trend-pattern confirmation techniques. By dynamically adapting to price action and validating breakouts through structural trend patterns, it seeks to improve the reliability of breakout entries and reduce false signals in volatile markets.</b>
+
 <h2> 🤳 Connect with me:</h2>
 
 <a href="mailto:dr.shah.github@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
