@@ -34,6 +34,9 @@
 - <b><a href="https://github.com/DrShah-Quant/Adaptive-Anchored-VWAP-Breakout-with-Trend-Pattern-Confirmation"> Adaptive Anchored VWAP Breakout with Trend-Pattern Confirmation </a></b></br>
   <b>This advanced strategy combines Anchored VWAP breakout signals with trend-pattern confirmation techniques. By dynamically adapting to price action and validating breakouts through structural trend patterns, it seeks to improve the reliability of breakout entries and reduce false signals in volatile markets.</b>
 
+- <b><a href="https://github.com/DrShah-Quant/Adaptive-Anchored-VWAP-Breakout-with-Swing-Pattern-Slope-Confirmation"> Adaptive Anchored VWAP Breakout with Swing-Pattern Slope Confirmation </a></b></br>
+  <b>This strategy enhances anchored VWAP breakout logic by integrating swing-pattern slope confirmation. By requiring higher highs, higher lows, and slope-strength validation before breakouts, it filters weak signals, ensuring entries align with strong institutional trend momentum.</b>
+
 <h2> 🤳 Connect with me:</h2>
 
 <a href="mailto:dr.shah.github@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
