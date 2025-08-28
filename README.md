@@ -37,6 +37,9 @@
 - <b><a href="https://github.com/DrShah-Quant/Adaptive-Anchored-VWAP-Breakout-with-Swing-Pattern-Slope-Confirmation"> Adaptive Anchored VWAP Breakout with Swing-Pattern Slope Confirmation </a></b></br>
   <b>This strategy enhances anchored VWAP breakout logic by integrating swing-pattern slope confirmation. By requiring higher highs, higher lows, and slope-strength validation before breakouts, it filters weak signals, ensuring entries align with strong institutional trend momentum.</b>
 
+- <b><a href="https://github.com/DrShah-Quant/Anchored-VWAP-Swing-Low-Rebound-Strategy-with-Slope-Divergence-Exit-Control"> Anchored VWAP Swing-Low Rebound Strategy with Slope-Divergence Exit Control </a></b></br>
+  <b>This strategy identifies rebound opportunities from swing-lows when price action sustains above Anchored VWAP. Entry signals are confirmed by slope-strength at swing-lows, while exits are triggered by slope-divergence at swing-highs. This ensures disciplined participation in trend continuations while reducing false breakouts and protecting profits from weakening momentum.</b>
+
 <h2> 🤳 Connect with me:</h2>
 
 <a href="mailto:dr.shah.github@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
