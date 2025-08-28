@@ -28,6 +28,9 @@
 - <b><a href="https://github.com/DrShah-Quant/Moving-Average-Crossover-Monitoring-Strategy"> Moving Average Crossover Logger Strategy </a></b></br>
   <b>This strategy monitors and logs moving average crossovers between short-term and long-term moving averages. By systematically recording crossover events, it provides insights into momentum shifts, trend reversals, and potential trading signals for algorithmic execution.</b>
 
+- <b><a href="https://github.com/DrShah-Quant/Anchored-VWAP-Based-Uptrend-Breakout-Strategy"> Anchored VWAP-Based Uptrend Breakout Strategy </a></b></br>
+  <b>This strategy uses Anchored Volume-Weighted Average Price (VWAP) as a dynamic support/resistance benchmark. It identifies breakout opportunities during established uptrends when prices sustain above anchored VWAP levels, providing traders with systematic entries aligned with institutional buying footprints.</b>
+
 <h2> 🤳 Connect with me:</h2>
 
 <a href="mailto:dr.shah.github@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
