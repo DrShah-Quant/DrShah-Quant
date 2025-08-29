@@ -46,6 +46,9 @@
 - <b><a href="https://github.com/DrShah-Quant/Sequential-Swing-Low-High-Low-Breakout-Strategy-with-Dual-Stop-Loss-Volume-Climax-Exit"> Sequential Swing Low–High–Low Breakout Strategy with Dual Stop-Loss & Volume-Climax Exit </a></b></br>
   <b>This strategy captures sequential Swing Low–High–Low breakout structures to identify reversal breakout entries. It employs dual stop-loss protection (percentage-based & structural) and integrates volume-climax exit signals, ensuring robust trade management, minimizing false entries, and maximizing capital efficiency under volatile conditions.</b>
 
+- <b><a href="https://github.com/DrShah-Quant/Sequential-Low-High-Low-Recognition-with-Trend-Context-Dual-Stop-Loss-Control-and-Volume-Driven-Exit"> Sequential Low–High–Low Recognition with Trend Context, Dual Stop-Loss Control, and Volume-Driven Exit </a></b></br>
+  <b>This advanced strategy recognizes Sequential Low–High–Low structures within broader trend context to capture breakout opportunities. It integrates dual stop-loss controls (percentage-based & structural) for robust risk management and employs volume-driven exit logic to align with market exhaustion, ensuring disciplined entries and exits in dynamic conditions.</b>
+
 <h2> 🤳 Connect with me:</h2>
 
 <a href="mailto:dr.shah.github@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
