@@ -43,6 +43,9 @@
 - <b><a href="https://github.com/DrShah-Quant/Trend-Breakout-with-Volume-Weighted-Buy-Sell-Strategy"> Trend Breakout with Volume-Weighted Buy-Sell Strategy </a></b></br>
   <b>This strategy combines trend breakout detection with volume-weighted buy-sell execution. It identifies structural breakouts from macro trend lows/highs and validates entries with volume dynamics. The approach ensures disciplined buying during strong uptrends and triggers systematic exits on volume spikes or trend reversals.</b>
 
+- <b><a href="https://github.com/DrShah-Quant/Sequential-Low-High-Low-Pattern-Breakout-with-Dual-Stop-Loss-Volume-Exhaustion-Exit-Strategy"> Sequential Low-High-Low Pattern Breakout with Dual Stop-Loss & Volume-Exhaustion Exit Strategy </a></b></br>
+  <b>This strategy detects sequential Low-High-Low-High-Low patterns to capture reversal breakout entries. It applies dual stop-loss protection (percentage-based & structural) and exits using volume exhaustion signals, ensuring disciplined trade management, reduced false signals, and improved capital preservation in volatile conditions.</b>
+
 <h2> 🤳 Connect with me:</h2>
 
 <a href="mailto:dr.shah.github@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
